@@ -1,0 +1,49 @@
+/* You can add global styles to this file, and also import other style files */
+.loginDiv {
+  width: 50%;
+  height: 350px;
+  position: absolute;
+  padding: 23px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  border: 1px solid black;
+  border-radius: 12px;
+  background: white;
+}
+.PrefilledDiv {
+  width: 50%;
+  height: 350px;
+  position: absolute;
+  padding: 23px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  border: 1px solid black;
+  border-radius: 12px;
+  background: white;
+}
+
+.OrderDiv {
+  width: 96%;
+  height: 645px;
+  position: absolute;
+  padding: 23px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  border: 1px solid black;
+  border-radius: 12px;
+  background: white;
+}
+.ActionIcon{
+  width: 22px;
+  height:22px;
+  cursor: pointer;
+}
